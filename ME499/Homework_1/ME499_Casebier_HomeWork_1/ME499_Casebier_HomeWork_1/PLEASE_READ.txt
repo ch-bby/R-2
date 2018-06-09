@@ -1,0 +1,19 @@
+This note sheet contains relevant information regarding Homework assignment 1 for Justin Caseber 93251947
+
+-Libraries Used
+	csv
+	numpy
+	statistics
+		
+
+-Assumptions
+	Remove any non-numeric and negative values 
+	At lease one student got a perfect score on the respective task
+
+-Files need to run program 
+	file_organizer.py
+	hard.py
+	grades.py
+	hw_1
+	
+
